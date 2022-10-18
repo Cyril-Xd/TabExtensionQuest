@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>TabExtension-debug</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="MelonLoader">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\MelonLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Elements">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\VRC.UI.Elements.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Core">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\VRC.UI.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnhollowerBaseLib">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\UnhollowerBaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\AppData\Local\Temp\7zE0919118A\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UIExpansionKit">
+      <HintPath>..\..\Downloads\UIExpansionKit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
